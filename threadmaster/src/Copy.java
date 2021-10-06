@@ -38,6 +38,7 @@ public class Copy implements Runnable {
 	} 
 	return isBinary; 
 	} 
+	
 
 	@Override
 	public void run(){
